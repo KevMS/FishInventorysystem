@@ -1,3 +1,3 @@
 <?php
 
-$conn = mysqli_connect('localhost', 'root', 'my_password', 'fish_inventory');
+$conn = mysqli_connect('localhost', 'root', '', 'fish_inventory');
