@@ -20,41 +20,41 @@ This Fish Inventory System was developed in 2022 by myself and two classmates as
 
 **Technologies Used:**
 
-Frontend: HTML, CSS, Bootstrap
-Backend: PHP
-Database: MySQL (Database Name: fish_inventory)
-Installation and Setup
+- Frontend: HTML, CSS, Bootstrap
+- Backend: PHP
+- Database: MySQL (Database Name: fish_inventory)
 
-**Clone the repository: Clone this project to your local machine using the following command:**
+**Installation and Setup**
 
-bash
-Copy code
-git clone <https://github.com/KevMS/FishInventorysystem>
-Configure the Database: Create a MySQL database named fish_inventory and import the provided SQL dump file to set up the necessary tables and data.
+1. Clone the repository: Clone this project to your local machine using the following command:
 
-Update Configuration: Modify the database configuration in the PHP files to connect to your local MySQL server.
+- git clone <https://github.com/KevMS/FishInventorysystem>
 
-Start the Server: Use a local server environment such as XAMPP or WAMP to host the application. Ensure that Apache and MySQL services are running.
+2. Configure the Database: Create a MySQL database named fish_inventory and import the provided SQL dump file to set up the necessary tables and data.
 
-Access the Application: Open a web browser and navigate to http://localhost/your_project_directory to view the application.
+3. Update Configuration: Modify the database configuration in the PHP files to connect to your local MySQL server.
+
+4. Start the Server: Use a local server environment such as XAMPP or WAMP to host the application. Ensure that Apache and MySQL services are running.
+
+5. Access the Application: Open a web browser and navigate to http://localhost/your_project_directory to view the application.
 
 **Admin Credentials**
-Username: admin
-Password: admin2
+
+- Username: admin
+- Password: admin2
 
 **Notes**
-This system was developed in 2022, and while it fulfills the basic requirements of a fish inventory system, it is not perfect. There are areas that require improvement, including design enhancements and process optimization.
 
-The system may contain bugs or errors that need to be addressed. Contributions and suggestions for improvement are welcome.
+- This system was developed in 2022, and while it fulfills the basic requirements of a fish inventory system, it is not perfect. There are areas that require improvement, including design enhancements and process optimization.
+- The system may contain bugs or errors that need to be addressed. Contributions and suggestions for improvement are welcome.
 
 **Future Improvements**
-Design Enhancements: Improve the overall design and user interface to make the system more visually appealing and intuitive.
 
-Performance Optimization: Enhance the system's performance by optimizing code and database queries.
+- Design Enhancements: Improve the overall design and user interface to make the system more visually appealing and intuitive.
+- Performance Optimization: Enhance the system's performance by optimizing code and database queries.
+- Feature Expansion: Add new features such as advanced search options, user reviews, and payment gateway integration for a better user experience.
+- Security Improvements: Implement additional security measures to protect user data and prevent unauthorized access.
 
-Feature Expansion: Add new features such as advanced search options, user reviews, and payment gateway integration for a better user experience.
+**Conclusion**
 
-Security Improvements: Implement additional security measures to protect user data and prevent unauthorized access.
-
-Conclusion
 This Fish Inventory System serves as a foundational project that demonstrates the basic principles of web development and inventory management. It provides a solid starting point for further development and enhancement. We encourage users and developers to explore, modify, and contribute to this project to make it even better.
